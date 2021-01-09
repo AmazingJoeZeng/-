@@ -1,0 +1,5 @@
+rec,repository,Spring,,
+rec,repository,Java,,
+rec,repository,GUI,,
+rec,repository,FCN,,
+rec,repository,FPN,,
